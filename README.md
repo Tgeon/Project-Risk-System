@@ -1,3 +1,6 @@
+![R](https://img.shields.io/badge/Made%20with-R-blue)
+![Monte Carlo](https://img.shields.io/badge/Model-Monte%20Carlo-orange)
+![Status](https://img.shields.io/badge/Status-Complete-success)
 # Construction Project Risk Engine
 
 ## Overview
