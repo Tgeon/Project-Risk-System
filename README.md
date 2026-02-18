@@ -7,12 +7,13 @@
 ## Overview
 This project builds an execution risk engine for construction-style project management using workflow data (tasks + forms).  
 The purpose of this project is to showcase and demonstrate large data wrangling and visualization applied to a dataset with real metrics and producible data. This is a personal project of mine that utilizes the R coding language and applies it to a dataset in relation with Construction Project Management. This project has risk and prediction models based on Monte Carlo simulation. The full capacity of this project produces a normalized Risk Index (0–100), identifies risk drivers, models backlog growth, and forecasts backlog clearance time using Monte Carlo simulation.
+It is a risk assessment and prioritization framework built using construction project datasets (tasks, forms, issue logs) that converts operational data into measurable risk indicators. Instead of relying on subjective judgment alone, the engine uses structured scoring logic to rank risks based on severity, frequency, backlog accumulation, and potential schedule impact.
 
 ## Project Management Concepts Involved
-KPI design and operational metrics such as cycle time
-Risk ranking and driver analysis
-Forecasting under uncertainty (Monte Carlo)
-Data wrangling and Visualization
+KPI design and operational metrics such as cycle time, 
+Risk ranking and driver analysis, 
+Forecasting under uncertainty (Monte Carlo), 
+Data wrangling and Visualization, and
 Data Analysis
 
 ## Data
